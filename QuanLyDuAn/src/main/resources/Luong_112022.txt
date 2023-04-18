@@ -1,0 +1,21 @@
+BANG LUONG NHAN VIEN THANG 11/2022
+ 
+ 
+Ma nhan vien: 4
+Tong luong: 3000003.1VND
+ 
+Ma nhan vien: 2
+Tong luong: 1.2E7VND
+ 
+Ma nhan vien: 9
+Tong luong: 3000008.5VND
+ 
+Ma nhan vien: 8
+Tong luong: 4.0E7VND
+ 
+Ma nhan vien: 2
+Tong luong: 1.5E7VND
+ 
+Ma nhan vien: 4
+Tong luong: 2.67E7VND
+ 

@@ -1,0 +1,33 @@
+DANH SACH DU AN CONG TY 11/2022
+ 
+ 
+Ten du an: Ung dung Android - 3
+Ngay bat dau: 2022-12-14     Ngay ket thuc: 2023-01-14
+Nguoi chu nhiem: 3
+Tong kinh phi: 2000000000VND
+ 
+Ten du an: Ung dung mang xa hoi - 4
+Ngay bat dau: 2022-12-07     Ngay ket thuc: 2023-01-15
+Nguoi chu nhiem: 4
+Tong kinh phi: 85000000VND
+ 
+Ten du an: Phan mem ERP - 1
+Ngay bat dau: 2022-10-01     Ngay ket thuc: 2022-12-01
+Nguoi chu nhiem: 2
+Tong kinh phi: 1200000000VND
+ 
+Ten du an: phan mem web java - 2
+Ngay bat dau: 2022-09-12     Ngay ket thuc: 2023-01-12
+Nguoi chu nhiem: 4
+Tong kinh phi: 700000000VND
+ 
+Ten du an: Ung dung Android - 3
+Ngay bat dau: 2022-12-14     Ngay ket thuc: 2023-01-14
+Nguoi chu nhiem: 3
+Tong kinh phi: 2000000000VND
+ 
+Ten du an: Ung dung mang xa hoi - 4
+Ngay bat dau: 2022-12-07     Ngay ket thuc: 2023-01-15
+Nguoi chu nhiem: 4
+Tong kinh phi: 85000000VND
+ 

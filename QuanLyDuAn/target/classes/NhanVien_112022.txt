@@ -1,0 +1,71 @@
+DANH SACH NHAN VIEN CONG TY
+1. QUAN LY: 
+Ho ten: nguyen le tuyen
+Ngay sinh: 2001-09-02     Gioi tinh: nam
+Email: 1     Phong Ban: null
+Ngay nham chuc: 2022-10-12
+Quan ly phong ban: 1, 1
+Ho ten: Nguyen
+Ngay sinh: 2001-09-02     Gioi tinh: nam,
+Email: nguyenletuyen@gmail.com     Phong Ban: null
+Ngay nham chuc: null
+Quan ly phong ban: null, null
+Ho ten: nguyen le tuyen
+Ngay sinh: 2001-09-02     Gioi tinh: nam
+Email: nguyenletuyen@gmail.com     Phong Ban: 1
+Ngay nham chuc: null
+Quan ly phong ban: null, null
+Ho ten: le anh du
+Ngay sinh: 2000-11-07     Gioi tinh: nam
+Email: dulee     Phong Ban: 1
+Ngay nham chuc: 2022-04-04
+Quan ly phong ban: 1, 2
+Ho ten: NGUYEN LE TUYEN
+Ngay sinh: 2001-02-09     Gioi tinh: nam
+Email: nguyenletuyen     Phong Ban: Dev
+Ngay nham chuc: 2022-12-16
+Quan ly phong ban: Dev back-end, Dev front-end
+Ho ten: NGUYEN LE TUYEN
+Ngay sinh: 2001-02-02     Gioi tinh: nam
+Email: 2     Phong Ban: null
+Ngay nham chuc: 2022-01-01
+Quan ly phong ban: 1, 1
+2. LAP TRINH VIEN: 
+Ho ten: le anh du
+Ngay sinh: 2000-11-07     Gioi tinh: nam
+Email: leanhdu     Phong Ban: 1
+Over-time: 3.1
+Ho ten: nguyen le tuyen
+Ngay sinh: 2001-09-02     Gioi tinh: nam
+Email: nguyenletuyen     Phong Ban: 1
+Over-time: 3.0
+Ho ten: nguyen le tuyen
+Ngay sinh: 2001-02-09     Gioi tinh: nam
+Email: 1     Phong Ban: null
+Over-time: 3.45
+Ho ten: LE ANH DU
+Ngay sinh: 2000-11-07     Gioi tinh: nam
+Email: dulee     Phong Ban: Dev
+Over-time: 8.5
+3. THIET KE VIEN: 
+Ho ten: LE ANH DU
+Ngay sinh: 2000-11-07     Gioi tinh: NAM
+Email: DEV     Phong Ban: delee
+Bonus: 2000000VND
+Ho ten: nguyen le tuyen
+Ngay sinh: 2001-02-09     Gioi tinh: nam
+Email: null     Phong Ban: 1
+Bonus: 5000000VND
+4. KIEM THU VIEN: 
+Ho ten: nguyen le tuyen
+Ngay sinh: 1990-09-02     Gioi tinh: nam
+Email: nguyenletuyen     Phong Ban: 1
+So luong loi: 21errors
+Ho ten: nguyen le tuyen
+Ngay sinh: 2002-09-02     Gioi tinh: nam
+Email: nguyenletuyen     Phong Ban: 1
+So luong loi: 4errors
+Ho ten: NGUYEN LE TUYEN
+Ngay sinh: 2001-02-09     Gioi tinh: nam
+Email: 1     Phong Ban: null
+So luong loi: 20errors
